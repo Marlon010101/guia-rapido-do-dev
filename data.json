@@ -1,0 +1,72 @@
+[
+    {
+        "nome": "HTML Semântico",
+        "descricao": "Uso correto de tags como &ltheader&gt, &ltnav&gt, &ltmain&gt e &ltfooter&gt para estruturar o documento de forma clara e acessível.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/Semantic_web",
+        "categoria": "HTML",
+        "nivel": "Básico"
+    },
+    {
+        "nome": "Seletores CSS Comuns",
+        "descricao": "Como usar seletores de classe (.nome), ID (#id) e tag (h1) para aplicar estilos específicos aos elementos.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors",
+        "categoria": "CSS",
+        "nivel": "Básico"
+    },
+    {
+        "nome": "Manipulação do DOM",
+        "descricao": "Usando document.querySelector() e innerHTML para ler ou modificar elementos HTML diretamente com JavaScript.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction",
+        "categoria": "JavaScript",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Funções e Parâmetros",
+        "descricao": "Criação de blocos de código reutilizáveis e a passagem de dados (parâmetros) entre eles para maior organização.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions",
+        "categoria": "JavaScript",
+        "nivel": "Básico"
+    },
+    {
+        "nome": "Variáveis CSS (Custom Properties)",
+        "descricao": "Definição de cores, fontes ou tamanhos globais no :root para facilitar a manutenção e estilização do projeto.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties",
+        "categoria": "CSS",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Event Listeners",
+        "descricao": "Como capturar interações do usuário (cliques, digitação, etc.) para executar funções JavaScript (Ex: botao.addEventListener()).",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener",
+        "categoria": "JavaScript",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Fetch API",
+        "descricao": "Realizando requisições assíncronas para carregar recursos externos (como este JSON!) ou interagir com serviços web.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch",
+        "categoria": "APIs",
+        "nivel": "Avançado"
+    },
+    {
+        "nome": "Flexbox",
+        "descricao": "Modelo de layout unidimensional para organizar itens em linhas ou colunas, essencial para a construção de interfaces responsivas.",
+        "Link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "categoria": "CSS",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Estrutura Básica do HTML",
+        "descricao": "Entender as tags essenciais &lthtml&gt, &lthead&gt, &ltbody&gt e a meta tag de viewport para responsividade.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html",
+        "categoria": "HTML",
+        "nivel": "Básico"
+    },
+    {
+        "nome": "Tratamento de Erros (Try/Catch)",
+        "descricao": "Utilização do bloco try...catch para gerenciar e capturar erros em código JavaScript, tornando a aplicação mais robusta.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch",
+        "categoria": "JavaScript",
+        "nivel": "Avançado"
+    }
+]

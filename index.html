@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Base de Conhecimento e Guia Rápido de Conceitos de Desenvolvimento Web da Imersão Dev.">
+    <link rel="stylesheet" href="style2.css">
+    <title>Guia Rápido do Dev</title>
+</head>
+<body>
+    
+    <header>
+        <h1>Guia Rápido do Dev</h1>
+        <div class="search-controls"> 
+            <input type="text" id="campo-busca" placeholder="Buscar tópicos ou tecnologias...">
+        </div>
+        
+        <!-- Controles de Filtro por Categoria -->
+        <div class="filter-controls">
+            <button class="filter-btn active" data-filter="Todos">Todos</button>
+            <button class="filter-btn" id="html" data-filter="HTML">HTML</button>
+            <button class="filter-btn" data-filter="CSS">CSS</button>
+            <button class="filter-btn" data-filter="JavaScript">JavaScript</button>
+            <button class="filter-btn" data-filter="APIs">APIs</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- Cards serão injetados aqui pelo JavaScript -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>© 2025 Projeto Imersão Dev. Feito com HTML, CSS e JavaScript.</p>
+        <ul class="footer-links">
+            <!-- Coloque seus links reais aqui! -->
+            <li><a href="https://www.linkedin.com/in/marlon-guilherme-82b064344/?trk=public-profile-join-page"  target="_blank">Linkedin</a></li>
+            <li><a href="https://github.com/Marlon010101" target="_blank">Github</a></li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
