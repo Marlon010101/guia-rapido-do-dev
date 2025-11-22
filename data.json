@@ -68,5 +68,61 @@
         "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch",
         "categoria": "JavaScript",
         "nivel": "Avançado"
+    },
+    {
+        "nome": "Grid Layout",
+        "descricao": "Um sistema de layout bidimensional que permite organizar o conteúdo em linhas e colunas, ideal para layouts complexos.",
+        "Link": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+        "categoria": "CSS",
+        "nivel": "Avançado"
+    },
+    {
+        "nome": "Arrow Functions",
+        "descricao": "Uma sintaxe mais curta para escrever funções em JavaScript. Elas não têm seu próprio 'this', o que simplifica o escopo.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+        "categoria": "JavaScript",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Promises",
+        "descricao": "Um objeto que representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+        "categoria": "JavaScript",
+        "nivel": "Avançado"
+    },
+    {
+        "nome": "React (Componentes)",
+        "descricao": "Uma biblioteca JavaScript para construir interfaces de usuário baseadas em componentes reutilizáveis.",
+        "Link": "https://react.dev/",
+        "categoria": "Frameworks",
+        "nivel": "Avançado"
+    },
+    {
+        "nome": "Async/Await",
+        "descricao": "Uma sintaxe mais limpa para trabalhar com Promises, permitindo escrever código assíncrono que parece síncrono.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/async_function",
+        "categoria": "JavaScript",
+        "nivel": "Avançado"
+    },
+    {
+        "nome": "Media Queries",
+        "descricao": "Técnica de CSS para aplicar estilos diferentes com base nas características do dispositivo, como largura da tela, permitindo criar layouts responsivos.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries",
+        "categoria": "CSS",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Git (Controle de Versão)",
+        "descricao": "Sistema de controle de versão essencial para rastrear mudanças no código, colaborar com equipes e gerenciar projetos de software.",
+        "Link": "https://git-scm.com/doc",
+        "categoria": "Ferramentas",
+        "nivel": "Intermediário"
+    },
+    {
+        "nome": "Local Storage",
+        "descricao": "API do navegador que permite armazenar dados de chave/valor localmente, persistindo mesmo após o fechamento da aba.",
+        "Link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage",
+        "categoria": "APIs",
+        "nivel": "Intermediário"
     }
 ]
